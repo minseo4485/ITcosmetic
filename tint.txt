@@ -1,0 +1,4 @@
+tint color
+-red
+-pink
+-orange
